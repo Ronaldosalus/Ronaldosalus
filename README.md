@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Ronaldo!
 
-<!--
-**Ronaldosalus/Ronaldosalus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de desenvolvimento, inglês e focado em **Python**, **JavaScript**, **HTML** e **CSS**, criando desde projetos sérios até uns experimentos meio insanos que envolvem IA, gráficos e umas ideias que surgem às 2 da manhã.
 
-Here are some ideas to get you started:
+Também gosto dessas coisas que me inspiram a programar (ou procrastinar):  
+**Oshi no Ko**, **Persona 5 Royal**, **Resident Evil**, entre outros surtos ocasionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tecnologias e Ferramentas  
+- 🐍 **Python**  
+- 🌐 **JavaScript**  
+- 🎨 **CSS**
+- ✨ **HTML**
+- 📊 Plotly & Streamlit   
+- 🔧 Git & GitHub  
+
+---
+
+## 🚀 Projetos em Destaque  
+
+### 🔹 **Chat_Bot**  
+Um programa, que inclue duas IAs: Marco e Z3K. Sendo Marco realmente sério e eficiente, e o Z3K só pra zoar com a situação.
+
+
+### 🔹 **Aplicativos e Web Experimentos**  
+Testes e protótipos usando Python, JS, CSS, Plotly e APIs para treinar e evoluir minhas habilidades.
+
+---
+
+## 🎮 Interesses  
+Além de codar, gosto de:  
+- ✨ *Oshi no Ko*  
+- 🎭 *Persona 5 Royal*  
+- 🧟 *Resident Evil*  
+- 🎮 Jogar, estudar e aprender novas techs
+
+---
+
+## 📬 Como me encontrar  
+Só mandar mensagem no GitHub mesmo — respondo quando não tô brigando com algum bug.
