@@ -12,6 +12,7 @@ Também gosto dessas coisas que me inspiram a programar (ou procrastinar):
 - 🌐 **JavaScript**  
 - 🎨 **CSS**
 - ✨ **HTML**
+- 🐘**PostgreSQL**
 - 📊 Plotly & Streamlit   
 - 🔧 Git & GitHub  
 
