@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Ronaldo!
 
-Sou estudante de desenvolvimento, inglês e focado em **Python**, **JavaScript**, **HTML** e **CSS**, criando desde projetos sérios até uns experimentos meio insanos que envolvem IA, gráficos e umas ideias que surgem às 2 da manhã.
+Sou estudante de desenvolvimento, inglês ( C1 ) e focado em **Python**, **JavaScript**, **HTML** e **CSS**, criando desde projetos sérios até uns experimentos meio insanos que envolvem IA, gráficos e umas ideias que surgem às 2 da manhã.
 
 Também gosto dessas coisas que me inspiram a programar (ou procrastinar):  
 **Oshi no Ko**, **Persona 5 Royal**, **Resident Evil**, entre outros surtos ocasionais.
@@ -21,7 +21,7 @@ Também gosto dessas coisas que me inspiram a programar (ou procrastinar):
 ## 🚀 Projetos em Destaque  
 
 ### 🔹 **Chat_Bot**  
-Um programa, que inclue duas IAs: Marco e Z3K. Sendo Marco realmente sério e eficiente, e o Z3K só pra zoar com a situação.
+Um programa, que inclui duas IAs: Marco e Z3K. Sendo Marco realmente sério e eficiente, e o Z3K só pra zoar com a situação.
 
 
 ### 🔹 **Aplicativos e Web Experimentos**  
