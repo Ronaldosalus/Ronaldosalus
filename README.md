@@ -24,6 +24,9 @@ Também gosto dessas coisas que me inspiram a programar (ou procrastinar):
 ### 🔹 **Chat_Bot**  
 Um programa, que inclui duas IAs: Marco e Z3K. Sendo Marco realmente sério e eficiente, e o Z3K só pra zoar com a situação.
 
+### 🔹 **ProjectAigis**
+Duas LLMs conjuntas com varias funções, visão, voz, e até ouvir! Guarda memórias e tem o sistema de Social Link para te zoar e julgar com o tempo. ( não é afiliado a Atlus, mas é um projeto de devoção e amor ao Persona3 Reload e todas as suas versões. )
+
 
 ### 🔹 **Aplicativos e Web Experimentos**  
 Testes e protótipos usando Python, JS, CSS, Plotly e APIs para treinar e evoluir minhas habilidades.
@@ -33,7 +36,7 @@ Testes e protótipos usando Python, JS, CSS, Plotly e APIs para treinar e evolui
 ## 🎮 Interesses  
 Além de codar, gosto de:  
 - ✨ *Oshi no Ko*  
-- 🎭 *Persona 5 Royal*  
+- 🎭 *Persona 5 Royal* ( ou qualquer outro jogo da serie persona ) 
 - 🧟 *Resident Evil*  
 - 🎮 Jogar, estudar e aprender novas techs
 
