@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Ronaldo!
 
-Sou estudante de desenvolvimento, inglês ( C1 ) e focado em **Python**, **JavaScript**, **HTML** e **CSS**, criando desde projetos sérios até uns experimentos meio insanos que envolvem IA, gráficos e umas ideias que surgem às 2 da manhã.
+Sou estudante de desenvolvimento, inglês ( B2 ) e focado em **Python**, **JavaScript**, **HTML** e **CSS**, criando desde projetos sérios até uns experimentos meio insanos que envolvem IA, gráficos e umas ideias que surgem às 2 da manhã.
 
 Também gosto dessas coisas que me inspiram a programar (ou procrastinar):  
 **Oshi no Ko**, **Persona 5 Royal**, **Persona 3 Realod**, entre outros surtos ocasionais.
@@ -26,7 +26,6 @@ Um programa, que inclui duas IAs: Marco e Z3K. Sendo Marco realmente sério e ef
 
 ### 🔹 **ProjectAigis**
 Duas LLMs conjuntas com varias funções, visão, voz, e até ouvir! Guarda memórias e tem o sistema de Social Link para te zoar e julgar com o tempo. ( não é afiliado a Atlus, mas é um projeto de devoção e amor ao Persona3 Reload e todas as suas versões. )
-
 
 ### 🔹 **Aplicativos e Web Experimentos**  
 Testes e protótipos usando Python, JS, CSS, Plotly e APIs para treinar e evoluir minhas habilidades.
