@@ -25,7 +25,7 @@ Também gosto dessas coisas que me inspiram a programar (ou procrastinar):
 Um programa, que inclui duas IAs: Marco e Z3K. Sendo Marco realmente sério e eficiente, e o Z3K só pra zoar com a situação.
 
 ### 🔹 **ProjectAigis**
-Duas LLMs conjuntas com varias funções, visão, voz, e até ouvir! Guarda memórias e tem o sistema de Social Link para te zoar e julgar com o tempo. ( não é afiliado a Atlus, mas é um projeto de devoção e amor ao Persona3 Reload e todas as suas versões. )
+Duas LLMs conjuntas com varias funções, visão, voz, audição, e até modo código! Guarda memórias e tem o sistema de Social Link para te zoar e julgar com o tempo. ( não é afiliado a Atlus, mas é um projeto de devoção e amor ao Persona3 Reload e todas as suas versões. )
 
 ### 🔹 **Aplicativos e Web Experimentos**  
 Testes e protótipos usando Python, JS, CSS, Plotly e APIs para treinar e evoluir minhas habilidades.
@@ -42,4 +42,4 @@ Além de codar, gosto de:
 ---
 
 ## 📬 Como me encontrar  
-Só mandar mensagem no GitHub mesmo — respondo quando não tô brigando com algum bug.
+Só mandar mensagem no GitHub ou no Insta — respondo quando não tô brigando com algum bug.
